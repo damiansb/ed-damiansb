@@ -59,19 +59,9 @@
     "icon": "",
     "bookmarks": [
       {
-        "name": "Inara",
-        "url": "https://inara.cz",
-        "description": "Wanted bounty lists and faction standings"
-      },
-      {
-        "name": "EDDB",
-        "url": "https://eddb.io",
-        "description": "Stations, commodities and bounty info"
-      },
-      {
-        "name": "BGS Tally",
-        "url": "https://bgstally.net",
-        "description": "Track BGS activity including bounty vouchers"
+        "name": "Sirius Corp CC Bounty Tracker",
+        "url": "https://siriuscorp.cc/bounty/",
+        "description": "Find bounty hunting spots near your location"
       },
       {
         "name": "Elite BGS",
