@@ -37,6 +37,11 @@
     "icon": "",
     "bookmarks": [
       {
+        "name": "ED Colonise",
+        "url": "https://edcolonise.net/",
+        "description": "ED Colonise is a tool designed to make finding interesting or specific colonisation candidates easier."
+      },
+      {
         "name": "Spansh Colonization Planner",
         "url": "https://www.spansh.co.uk/colonisation",
         "description": "Plan your colonization routes"
@@ -45,11 +50,6 @@
         "name": "EDCD (Elite Dangerous Community Developers)",
         "url": "https://edcd.github.io",
         "description": "Community tools for colonization data"
-      },
-      {
-        "name": "Inara",
-        "url": "https://inara.cz",
-        "description": "Commander profiles and minor faction tracking"
       }
     ]
   },
