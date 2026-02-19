@@ -2,7 +2,7 @@
   {
     "id": "exploration",
     "name": "Exploration",
-    "icon": "🔭",
+    "icon": "",
     "bookmarks": [
       {
         "name": "EDSM (Elite Dangerous Star Map)",
@@ -34,7 +34,7 @@
   {
     "id": "colonization",
     "name": "Colonization",
-    "icon": "🏗️",
+    "icon": "",
     "bookmarks": [
       {
         "name": "Spansh Colonization Planner",
@@ -56,7 +56,7 @@
   {
     "id": "bounty-hunting",
     "name": "Bounty Hunting",
-    "icon": "🎯",
+    "icon": "",
     "bookmarks": [
       {
         "name": "Inara",
@@ -83,7 +83,7 @@
   {
     "id": "ship-builds",
     "name": "Ship Builds",
-    "icon": "🚀",
+    "icon": "",
     "bookmarks": [
       {
         "name": "Coriolis",
@@ -105,7 +105,7 @@
   {
     "id": "useful-articles",
     "name": "Useful Articles",
-    "icon": "📚",
+    "icon": "",
     "bookmarks": [
       {
         "name": "Elite Dangerous Wiki",
