@@ -4,7 +4,7 @@
   "description": "Elite Dangerous bookmarks site",
   "scripts": {
     "build": "sass src/assets/scss/custom.scss _site/assets/css/style.css --load-path node_modules && eleventy",
-    "start": "eleventy --serve",
+    "start": "sass src/assets/scss/custom.scss _site/assets/css/style.css --load-path node_modules && eleventy --serve",
     "build:css": "sass src/assets/scss/custom.scss _site/assets/css/style.css --load-path node_modules"
   },
   "dependencies": {
