@@ -1,0 +1,15 @@
+{
+  "name": "ed-damiansb",
+  "version": "1.0.0",
+  "description": "Elite Dangerous bookmarks site",
+  "scripts": {
+    "build": "sass src/assets/scss/custom.scss _site/assets/css/style.css --load-path node_modules && eleventy",
+    "start": "eleventy --serve",
+    "build:css": "sass src/assets/scss/custom.scss _site/assets/css/style.css --load-path node_modules"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "bootstrap": "^5.3.0",
+    "sass": "^1.77.0"
+  }
+}

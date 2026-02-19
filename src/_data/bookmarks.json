@@ -1,0 +1,137 @@
+[
+  {
+    "id": "exploration",
+    "name": "Exploration",
+    "icon": "🔭",
+    "bookmarks": [
+      {
+        "name": "EDSM (Elite Dangerous Star Map)",
+        "url": "https://www.edsm.net",
+        "description": "Track your exploration journey and discover the galaxy"
+      },
+      {
+        "name": "Spansh",
+        "url": "https://www.spansh.co.uk",
+        "description": "Neutron star route planner and galaxy tools"
+      },
+      {
+        "name": "EDDiscovery",
+        "url": "https://github.com/EDDiscovery/EDDiscovery",
+        "description": "Track your travels, discoveries and more"
+      },
+      {
+        "name": "Neutron Router (Spansh)",
+        "url": "https://www.spansh.co.uk/plotter",
+        "description": "Plot routes using neutron star superhighway"
+      },
+      {
+        "name": "Canonn Research",
+        "url": "https://canonn.science",
+        "description": "Exploring the unknown and alien mysteries"
+      }
+    ]
+  },
+  {
+    "id": "colonization",
+    "name": "Colonization",
+    "icon": "🏗️",
+    "bookmarks": [
+      {
+        "name": "Spansh Colonization Planner",
+        "url": "https://www.spansh.co.uk/colonisation",
+        "description": "Plan your colonization routes"
+      },
+      {
+        "name": "EDCD (Elite Dangerous Community Developers)",
+        "url": "https://edcd.github.io",
+        "description": "Community tools for colonization data"
+      },
+      {
+        "name": "Inara",
+        "url": "https://inara.cz",
+        "description": "Commander profiles and minor faction tracking"
+      }
+    ]
+  },
+  {
+    "id": "bounty-hunting",
+    "name": "Bounty Hunting",
+    "icon": "🎯",
+    "bookmarks": [
+      {
+        "name": "Inara",
+        "url": "https://inara.cz",
+        "description": "Wanted bounty lists and faction standings"
+      },
+      {
+        "name": "EDDB",
+        "url": "https://eddb.io",
+        "description": "Stations, commodities and bounty info"
+      },
+      {
+        "name": "BGS Tally",
+        "url": "https://bgstally.net",
+        "description": "Track BGS activity including bounty vouchers"
+      },
+      {
+        "name": "Elite BGS",
+        "url": "https://elitebgs.app",
+        "description": "Background simulation tracker"
+      }
+    ]
+  },
+  {
+    "id": "ship-builds",
+    "name": "Ship Builds",
+    "icon": "🚀",
+    "bookmarks": [
+      {
+        "name": "Coriolis",
+        "url": "https://coriolis.io",
+        "description": "Ship outfitting and build sharing"
+      },
+      {
+        "name": "EDSY",
+        "url": "https://edsy.org",
+        "description": "Elite Dangerous Shipyard for builds"
+      },
+      {
+        "name": "Inara Ship Builds",
+        "url": "https://inara.cz/elite/shipbuilds",
+        "description": "Community shared ship builds"
+      }
+    ]
+  },
+  {
+    "id": "useful-articles",
+    "name": "Useful Articles",
+    "icon": "📚",
+    "bookmarks": [
+      {
+        "name": "Elite Dangerous Wiki",
+        "url": "https://elite-dangerous.fandom.com",
+        "description": "Comprehensive game wiki"
+      },
+      {
+        "name": "Frontier Forums",
+        "url": "https://forums.frontier.co.uk",
+        "description": "Official game forums"
+      },
+      {
+        "name": "r/EliteDangerous",
+        "url": "https://www.reddit.com/r/EliteDangerous",
+        "description": "Community discussions"
+      },
+      {
+        "name": "Inara Guide",
+        "url": "https://inara.cz/elite/guide",
+        "description": "Game guides and tutorials"
+      },
+      {
+        "name": "Down to Earth Astronomy (YouTube)",
+        "url": "https://www.youtube.com/@DownToEarthAstronomy",
+        "description": "Video guides for Elite Dangerous"
+      }
+    ]
+  }
+]
