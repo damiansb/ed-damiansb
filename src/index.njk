@@ -1,0 +1,38 @@
+---
+layout: base.njk
+title: ED Tools - Elite Dangerous Resources
+---
+
+<section class="hero-section">
+  <div class="container text-center">
+    <h1>Elite Dangerous Tools &amp; Resources</h1>
+    <p class="lead mt-3">Your curated collection of essential tools, planners and guides for commanders</p>
+  </div>
+</section>
+
+{% for category in bookmarks %}
+<section class="category-section" id="{{ category.id }}">
+  <div class="container">
+    <h2 class="category-heading">
+      <span class="category-icon">{{ category.icon }}</span>{{ category.name }}
+    </h2>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      {% for bookmark in category.bookmarks %}
+      <div class="col">
+        <div class="bookmark-card card">
+          <div class="card-body">
+            <h5 class="card-title">
+              <a href="{{ bookmark.url }}" target="_blank" rel="noopener noreferrer">
+                {{ bookmark.name }}
+                <i class="bi bi-box-arrow-up-right ms-1" style="font-size:0.75em;opacity:0.6;"></i>
+              </a>
+            </h5>
+            <p class="card-text">{{ bookmark.description }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endfor %}
